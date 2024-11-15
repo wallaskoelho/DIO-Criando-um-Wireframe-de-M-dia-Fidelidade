@@ -16,4 +16,14 @@ Eu cosntrui uma Wireframe de uma unica pagina que sera um site institucional meu
 
 Fora de exigengica do desafio de projeto da DIO.me eu dei mais um passo e crie um designer com base no wireframe.
 
+## Fase 3
+
+Cria um Design System para meu projeto segue no link abaixo
+
+https://www.figma.com/design/Tddagz508k5ZPp0D0oq4ci/DIO-UX%2FUI-Wireframe-de-M%C3%A9dia-Fidelidade?node-id=20-2&m=dev&t=7mgikmgsPjz2yjww-1
+
+## Fase 4
+
+Refazer o Wirefame feito na fase i e o designer da fase 2 de acordo com o Design System feito na fase 3
+
 
